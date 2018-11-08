@@ -14,5 +14,6 @@ public class Aufgabe3_1810653024 {
         System.out.println(zahl1%zahl2);
         System.out.println(zahl3++);
         System.out.println(zahl2--);
+        System.out.println("_________________________");
     }
 }
